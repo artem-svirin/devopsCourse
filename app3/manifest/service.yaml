@@ -3,10 +3,10 @@ kind: Service
 metadata:
   name: html-service
 spec:
-  type: NodePort
+  type: ClusterIP
   selector:
-    app: html
+    app: html 
   ports:
-    - port: 1234
+    - port: 2345
+      protocol: TCP
       targetPort: 8080
-      nodePort: 30080
