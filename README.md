@@ -6,5 +6,6 @@
 [1.5.] (https://github.com/artem-svirin/devopsCourse/tree/1.5/app3) <br>
 [1.6.] (https://github.com/artem-svirin/devopsCourse/tree/1.6/app3) <br>
 [1.7.] (https://github.com/artem-svirin/devopsCourse/tree/1.7/app1) <br>
-[1.8.] (https://github.com/artem-svirin/devopsCourse/tree/1.8/app3)
+[1.8.] (https://github.com/artem-svirin/devopsCourse/tree/1.8/app3) <br>
+[1.9.] (https://github.com/artem-svirin/devopsCourse/tree/1.9/app4)
 
